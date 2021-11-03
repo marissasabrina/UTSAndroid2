@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UTSAndroid</string>
+    <string name="camera">Camera</string>
+    <string name="capture">Capture</string>
+    <string name="photo_gallery">photo_gallery</string>
+</resources>
